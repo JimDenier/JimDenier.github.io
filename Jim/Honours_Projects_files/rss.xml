@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>final year projects</title>
+    <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects.html</link>
+    <description>I am happy to supervise honours (4th year) students in a variety of areas, including fluid dynamics and dynamical systems. The following list of past honours student projects gives some idea of the range of topics available. If you are interested in fluid dynamics and like the idea of spending your honours year at Adelaide, please do not hesitate to contact me.
+Freak Waves    
+ Project Description: The picture below shows a &quot;freak wave&quot; about to break over the fore-deck of a cargo ship. This wave was estimated to be 20 metres high. Over the past ten years over 200 super-carriers (cargo ships that are over 200 metres long) have been lost at sea. Many of these losses have been attributed to an encounter with a freak wave. Recent data from the European Space Agency's MaxWave experiment detected ten giant waves (each over 25 metres high) in just a three week period. These wave are not related to tsunamis. They are thought to result from a self-interaction process between much smaller amplitude waves that occur in the ocean. The interaction process serves to produce the self-focusing behaviour seen in the figure.
+This project will allow the student to explore current theories for the generation of such large amplitude, freak waves. It will introduce the fascinating topic of nonlinear waves, how they are generated and how they can be described in a very precise mathematical way. Some background in Differential Equations and Waves would be useful.</description>
+    <item>
+      <title>A freak wave</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects.html#0</link>
+      <guid isPermaLink="false">6e149f2a-415e-414c-b4ab-c824afd5b0ec</guid>
+      <enclosure url="http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/freakwave/freakwave.jpg" length="76563" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/freakwave/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/freakwave/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_182_15&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;A freak wave&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>The evolution of the Black Death</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects.html#1</link>
+      <guid isPermaLink="false">ba8d0f66-1b82-46c4-a389-47737e5a703f</guid>
+      <enclosure url="http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/plague6/plague6.jpg" length="27531" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/plague6/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/plague6/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_182_15&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;The evolution of the Black Death&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>A “Fast suit”</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects.html#2</link>
+      <guid isPermaLink="false">4a8b0b26-737c-4930-9322-ba49cd973135</guid>
+      <enclosure url="http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/fastsuit/fastsuit.jpg" length="19932" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/fastsuit/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://web.science.mq.edu.au/%7Ejdenier/Jim/Honours_Projects_files/Media/fastsuit/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_182_15&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;A “Fast suit”&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Phd projects in fluid mechanics</title>
+    <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects.html</link>
+    <description>I’ve supervised students across a wide range of areas within fluid mechanics. I’m always interested in hearing from students who wish to join my group and undertake a MRes (Master of Research) or PhD under my supervision.  If you are interested please send me a copy of your academic transcript and the areas you are interested in.
+
+For details of Macquarie’s MRes and PhD programs, and how to apply, please read the details which can be found on the Department of Mathematics website. Suitably qualified students should also consider applying for a scholarship - details of scholarships, and how to apply, can be obtained from the Macquarie’s HDR Scholarship page.
+
+I’m currently seeking outstanding students, and with a strong mathematical modelling background, to undertake PhDs in my group on the following projects, working in the exciting and challenging area of boundary-layer theory and transition to turbulence.
+
+If you are interested in any developing a research career in the field of fluid mechanics please contact me via email to discuss further, or if you are in Sydney region drop in for a chat.</description>
+    <item>
+      <title>Boundary-layer breakdown in a fluid filled torus</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects.html#0</link>
+      <guid isPermaLink="false">1d57ba29-047d-4a6c-b4c1-3b4e7cf3fc19</guid>
+      <enclosure url="http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/00000574/00000574.jpg" length="26260" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/00000574/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/00000574/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Boundary-layer breakdown in a fluid filled torus&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>The original Gortler vortex receptivity figure</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects.html#1</link>
+      <guid isPermaLink="false">2003f3e6-ec46-4eb3-8d61-e6b94a06dfeb</guid>
+      <enclosure url="http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/Image/Image.jpg" length="87299" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/Image/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/Image/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;The original Gortler vortex receptivity figure&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Flow in a helical pipe</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects.html#2</link>
+      <guid isPermaLink="false">652292d0-9cc9-4da9-bdfa-24f5a7b61350</guid>
+      <enclosure url="http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/HelicalFlowCrossSection/HelicalFlowCrossSection.jpg" length="52942" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/HelicalFlowCrossSection/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://web.science.mq.edu.au/%7Ejdenier/Jim/PhD_Projects_files/Media/HelicalFlowCrossSection/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Flow in a helical pipe&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Family Albums</title>
+    <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Albums/Albums.html</link>
+    <description>Click on the Albums below to see updates on the kids</description>
+    <item>
+      <title>Liam's First Day at Kindy</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Albums/Pages/Liams_First_Day_at_Kindy.html</link>
+      <guid isPermaLink="false">269f0606-b1f1-4d96-9f79-d6984d4281d6</guid>
+    </item>
+    <item>
+      <title>Playtime with hiccup</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Albums/Pages/Playtime_with_hiccup.html</link>
+      <guid isPermaLink="false">859d8aff-4212-40cf-9ac8-d79bc32d9b9c</guid>
+    </item>
+    <item>
+      <title>Liam's New Bike</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Albums/Pages/Liams_New_Bike.html</link>
+      <guid isPermaLink="false">cd8c2f96-cd0f-4530-8e61-6ff49de5eb88</guid>
+    </item>
+    <item>
+      <title>Liam</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Albums/Pages/Liam.html</link>
+      <guid isPermaLink="false">73b283fa-6f75-4ebf-8e8e-c68f9845f9c6</guid>
+    </item>
+    <item>
+      <title>Jessica</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Albums/Pages/Jessica.html</link>
+      <guid isPermaLink="false">b829a6e1-659c-484b-abe5-0e7624b4c450</guid>
+    </item>
+    <item>
+      <title>Megan</title>
+      <link>http://web.science.mq.edu.au/%7Ejdenier/Jim/Albums/Pages/Megan.html</link>
+      <guid isPermaLink="false">94517d82-1116-4c24-a6bf-f177183e7d5e</guid>
+    </item>
+  </channel>
+</rss>

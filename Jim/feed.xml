@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:3EB1EAC4-AE70-4456-B81A-9843AA2B644D</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-09-17T18:58:02+10:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:D3E17B19-A994-4714-A32D-A0785FFDAF79</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">D3E17B19-A994-4714-A32D-A0785FFDAF79</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2019-09-17T18:58:02.001+10:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FF412A09-A517-4364-8514-C7C97521B4AE</id>
+  <title>CV</title>
+  <title xmlns="urn:iweb:">CV</title>
+  <in-navbar xmlns="urn:iweb:">FF412A09-A517-4364-8514-C7C97521B4AE</in-navbar>
+  <link rel="alternate" href="CV.html"/>
+  <updated>2019-09-17T18:58:02.002+10:00</updated>
+  <content>CV</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1C9F73D6-8459-4F6E-B13E-B23B91659B6F</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">1C9F73D6-8459-4F6E-B13E-B23B91659B6F</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2019-09-17T18:58:02.003+10:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4DB7A2C6-3F5F-4D6F-9FED-4325A5CA3794</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">4DB7A2C6-3F5F-4D6F-9FED-4325A5CA3794</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2019-09-17T18:58:02.004+10:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:56A6B942-D8F0-4270-9E9E-78741C893E1F</id>
+  <title>PhD Projects</title>
+  <title xmlns="urn:iweb:">PhD Projects</title>
+  <in-navbar xmlns="urn:iweb:">56A6B942-D8F0-4270-9E9E-78741C893E1F</in-navbar>
+  <link rel="alternate" href="PhD_Projects.html"/>
+  <updated>2019-09-17T18:58:02.005+10:00</updated>
+  <content>PhD Projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:583C0341-F0DC-41A0-B62D-0A9955B2733E</id>
+  <title>Grants</title>
+  <title xmlns="urn:iweb:">Grants</title>
+  <in-navbar xmlns="urn:iweb:">583C0341-F0DC-41A0-B62D-0A9955B2733E</in-navbar>
+  <link rel="alternate" href="Grants.html"/>
+  <updated>2019-09-17T18:58:02.006+10:00</updated>
+  <content>Grants</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1D624AC0-481D-47DA-9A22-63A62168C162</id>
+  <title>Talks</title>
+  <title xmlns="urn:iweb:">Talks</title>
+  <in-navbar xmlns="urn:iweb:">1D624AC0-481D-47DA-9A22-63A62168C162</in-navbar>
+  <link rel="alternate" href="Talks.html"/>
+  <updated>2019-09-17T18:58:02.007+10:00</updated>
+  <content>Talks</content>
+ </entry>
+</feed>
